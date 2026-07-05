@@ -15,7 +15,7 @@
 
 - **Programming Languages:** Python, SQL
 
-- **Data Visualization & Analytics:** Excel, Power BI, Tableau, Matplotlib, Seaborn, A/B Testing
+- **Data Visualization & Analytics:** Excel, Power BI, Tableau, Matplotlib,Pandas, Seaborn, A/B Testing
 
 - **Data Analysis:** NumPy, Pandas, SciPy, Statsmodels, Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Statistical Analysis
 
